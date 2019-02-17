@@ -1,0 +1,1 @@
+var boxx=document.querySelector(".box"),box=document.querySelector(".box");
